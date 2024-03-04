@@ -1,0 +1,46 @@
+Surnames (Last names) of all authors
+Author1: 
+
+Author2: 
+
+Author3:
+ 
+
+Author4: 
+Author5:
+ 
+
+
+ 
+
+First names of all authors
+
+
+Author1: 
+
+Author2: 
+
+Author3:
+ 
+
+Author4: 
+Author5:
+ 
+
+
+
+Contact author's name & mailing address (one per paper) 
+
+
+
+
+
+
+Name: 
+Mailing address: 
+
+
+Contact author's email address (one per paper)
+
+
+
